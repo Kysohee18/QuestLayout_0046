@@ -1,6 +1,7 @@
 package com.example.praktikum_4
 
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
@@ -42,7 +43,11 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
 
             )
         ) {
+            Row(){
 
+            }
         }
+
+
     }
 }
